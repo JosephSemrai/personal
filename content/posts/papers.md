@@ -3,7 +3,6 @@ author = "Joe"
 cover = ""
 date = 2020-06-21T04:00:00Z
 description = "it's all ur fault adam"
-draft = true
 title = "papers"
 
 +++
